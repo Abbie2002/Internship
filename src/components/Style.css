@@ -1,0 +1,13 @@
+.dot{
+   border: 10px outset;margin-left: auto;margin-right: auto;margin-top: 10%;width: 70%;
+   
+}
+.mot{
+    border: 6px; background-color: rgb(209, 77, 77);
+}
+.not{
+    background-color: rgb(194, 209, 204);
+}
+div{
+    background-color:rgb(255, 255, 255);
+}
